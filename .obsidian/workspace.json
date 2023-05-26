@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "f8d833b804e0bea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "60981e2c1acf211e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff9f157528d12d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66bff72561ed41ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf787ef8a6bf0ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d89561285b7307",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a99faa62d7b784a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "167f0fbab233d4ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "ae8c4f274dc3a448",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d2921c619c29769",
+        "type": "tabs",
+        "dimension": 59.101941747572816,
+        "children": [
+          {
+            "id": "f19f57ad9f7f8f79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36abf93851707957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f43aa7162a44938e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d047b3d4ba60f4e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "df2fe25f2c4ef89d",
+        "type": "tabs",
+        "dimension": 40.898058252427184,
+        "children": [
+          {
+            "id": "f9cb8811dfcfa0e8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.849272349272349,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Керування просторами": false,
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "dff9f157528d12d3",
+  "lastOpenFiles": [
+    "Докер/Docker-compose.md",
+    "Докер/Images (образи).md",
+    "Докер/Containers (контейнери).md",
+    "Коментарі.md",
+    "Прочитати, подивитись, розібратись.md",
+    "Правила найменування.md",
+    "Type hints (аннотації типів).md",
+    "Оффтоп.md",
+    "Big-O.md",
+    "Типи даних/Типи даних.md",
+    "Контекстні менеджери.md",
+    "Типи даних/Strings.md",
+    "Git.md",
+    "Django/djnago-admin.md",
+    "Генератори.md",
+    "2023-05-22.md",
+    "Функції/Розпаковка контейнерів в аргументах функції.md",
+    "Функції/Оператори розпаковки.md",
+    "Функції/Функції.md",
+    "Функції/Декоратори.md",
+    "Регулярні вирази.md",
+    "draft/Python.canvas",
+    "Django/Django.md",
+    "Django",
+    "Untitled Kanban.md",
+    "Python.md",
+    "Прочитати.md",
+    "цикли/Цикл for.md",
+    "files/Beyond the Basic Stuff with Python.pdf",
+    "Без назви.canvas",
+    "files/image.png",
+    "files/docke host.png",
+    "Докер",
+    "Типи даних/dict словники",
+    "Типи даних/tuples",
+    "Типи даних",
+    "Функції",
+    "files/Чистый Python. Тонкости программирования для профи ( PDFDrive ).pdf",
+    "files",
+    "ООП",
+    "Python/Без назви.canvas",
+    "Pasted image 20230509152541.png",
+    "Pasted image 20230509150957.png"
+  ]
+}
