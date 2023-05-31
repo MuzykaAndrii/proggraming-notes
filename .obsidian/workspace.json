@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "60981e2c1acf211e",
+        "id": "064ed4d97c3c5429",
         "type": "tabs",
         "children": [
           {
-            "id": "dff9f157528d12d3",
+            "id": "9e11d20a9de7c6a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Django/djnago-admin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Django/djnago-admin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Django/djnago-admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Django/djnago-admin.md"
+              }
             }
           }
         ]
@@ -135,6 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Django/djnago-admin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,8 +190,24 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "dff9f157528d12d3",
+  "active": "9e11d20a9de7c6a3",
   "lastOpenFiles": [
+    "Django/Django.md",
+    "Django/djnago-admin.md",
+    "ТЗ до проекту 'Anki app extended'.md",
+    "Untitled Kanban.md",
+    "Excalidraw/Drawing 2023-05-31 16.20.43.excalidraw.md",
+    "excalibrain.md",
+    "Оффтоп.md",
+    "Python.md",
+    "Excalidraw/Drawing 2023-05-31 16.19.00.excalidraw.md",
+    "Excalidraw",
+    "Типи даних/Preallocated integers.md",
+    "Типи даних/Integers.md",
+    "Розмір integer.md",
+    "Git.md",
+    "Парадигми програмування.canvas",
+    "files/Beyond the Basic Stuff with Python.pdf",
     "Докер/Docker-compose.md",
     "Докер/Images (образи).md",
     "Докер/Containers (контейнери).md",
@@ -190,29 +215,14 @@
     "Прочитати, подивитись, розібратись.md",
     "Правила найменування.md",
     "Type hints (аннотації типів).md",
-    "Оффтоп.md",
     "Big-O.md",
     "Типи даних/Типи даних.md",
     "Контекстні менеджери.md",
     "Типи даних/Strings.md",
-    "Git.md",
-    "Django/djnago-admin.md",
     "Генератори.md",
     "2023-05-22.md",
-    "Функції/Розпаковка контейнерів в аргументах функції.md",
-    "Функції/Оператори розпаковки.md",
-    "Функції/Функції.md",
-    "Функції/Декоратори.md",
-    "Регулярні вирази.md",
     "draft/Python.canvas",
-    "Django/Django.md",
     "Django",
-    "Untitled Kanban.md",
-    "Python.md",
-    "Прочитати.md",
-    "цикли/Цикл for.md",
-    "files/Beyond the Basic Stuff with Python.pdf",
-    "Без назви.canvas",
     "files/image.png",
     "files/docke host.png",
     "Докер",
@@ -222,7 +232,6 @@
     "Функції",
     "files/Чистый Python. Тонкости программирования для профи ( PDFDrive ).pdf",
     "files",
-    "ООП",
     "Python/Без назви.canvas",
     "Pasted image 20230509152541.png",
     "Pasted image 20230509150957.png"
