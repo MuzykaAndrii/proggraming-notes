@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "064ed4d97c3c5429",
+        "id": "166ebaeb764c990c",
         "type": "tabs",
         "children": [
           {
-            "id": "9e11d20a9de7c6a3",
+            "id": "f39b9343a4dd1430",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/djnago-admin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/djnago-admin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/djnago-admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Django/djnago-admin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,7 +135,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Django/djnago-admin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,48 +181,51 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "9e11d20a9de7c6a3",
+  "active": "f39b9343a4dd1430",
   "lastOpenFiles": [
-    "Django/Django.md",
-    "Django/djnago-admin.md",
-    "ТЗ до проекту 'Anki app extended'.md",
-    "Untitled Kanban.md",
-    "Excalidraw/Drawing 2023-05-31 16.20.43.excalidraw.md",
-    "excalibrain.md",
-    "Оффтоп.md",
-    "Python.md",
-    "Excalidraw/Drawing 2023-05-31 16.19.00.excalidraw.md",
-    "Excalidraw",
-    "Типи даних/Preallocated integers.md",
-    "Типи даних/Integers.md",
-    "Розмір integer.md",
-    "Git.md",
-    "Парадигми програмування.canvas",
-    "files/Beyond the Basic Stuff with Python.pdf",
-    "Докер/Docker-compose.md",
-    "Докер/Images (образи).md",
-    "Докер/Containers (контейнери).md",
-    "Коментарі.md",
+    "Python/ООП/Наслідування.md",
+    "Python.canvas",
+    "Без назви.md",
+    "Python/ООП/Інкапсуляція.md",
+    "Python/ООП/ООП.md",
+    "Python/ООП/Поліморфізм.md",
+    "TODO.md",
     "Прочитати, подивитись, розібратись.md",
-    "Правила найменування.md",
-    "Type hints (аннотації типів).md",
+    "Корисні ресурси.md",
+    "Python/Правила найменування.md",
+    "Python/Коментарі.md",
+    "Парадигми програмування.canvas",
+    "Python/Оффтоп.md",
+    "Django.canvas",
+    "Python/Django/ORM.md",
+    "Python/Django/Типи полів моделей.md",
     "Big-O.md",
-    "Типи даних/Типи даних.md",
-    "Контекстні менеджери.md",
-    "Типи даних/Strings.md",
-    "Генератори.md",
-    "2023-05-22.md",
-    "draft/Python.canvas",
-    "Django",
+    "Python/Функції/Функції.md",
+    "ТЗ до проекту 'Anki app extended'.md",
+    "Git.md",
+    "Python/внутрішня будова/Об'єкти.md",
+    "Python/Типи даних/tuples/NamedTuple.md",
+    "Python/Типи даних/Копіювання об'єктів.md",
+    "Python/внутрішня будова/Memory management.md",
+    "files/Beyond the Basic Stuff with Python.pdf",
+    "Python/внутрішня будова/Weakref (слабкі посилання).md",
+    "Python/внутрішня будова/Garbage collector.md",
+    "Без назви.canvas",
+    "Python/внутрішня будова/Процеси, потоки.md",
+    "Python/внутрішня будова/Конкурентність.md",
+    "Python/внутрішня будова",
     "files/image.png",
+    "files/anki-app-extended.png",
+    "files/Дронов В.А. - Django 3.0. Практика создания веб-сайтов на Python (Профессиональное программирование) - 2021.pdf",
+    "draft/Python.canvas",
+    "Python",
+    "Excalidraw",
+    "Python/Django",
     "files/docke host.png",
     "Докер",
-    "Типи даних/dict словники",
-    "Типи даних/tuples",
-    "Типи даних",
-    "Функції",
-    "files/Чистый Python. Тонкости программирования для профи ( PDFDrive ).pdf",
-    "files",
+    "Python/Типи даних/dict словники",
+    "Python/Типи даних/tuples",
+    "Python/Типи даних",
     "Python/Без назви.canvas",
     "Pasted image 20230509152541.png",
     "Pasted image 20230509150957.png"

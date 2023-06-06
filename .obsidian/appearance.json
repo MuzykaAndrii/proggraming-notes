@@ -4,5 +4,9 @@
   "cssTheme": "",
   "nativeMenus": false,
   "translucency": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "baseFontSize": 16
 }

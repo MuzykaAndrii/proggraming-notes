@@ -1,0 +1,24 @@
+/*bold inline code*/
+.markdown-preview-view code,
+.cm-s-obsidian span.cm-inline-code,
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight),
+.cm-s-obsidian .HyperMD-codeblock {
+  font-weight: bold;
+/*  color: #018c8a;*/
+}
+
+
+.markdown-reading-view h6,
+.cm-s-obsidian .cm-header-6,
+.mod-cm6 .cm-editor .HyperMD-header-6 {
+/*  line-height: 0.3em;
+  margin-top: 2rem;*/
+}
+
+.canvas-node-placeholder {
+  font-size: 150px;
+}
+
+.canvas-node-label {
+  font-size: 30px;
+}

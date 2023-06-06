@@ -6,5 +6,8 @@
   ],
   "alwaysUpdateLinks": true,
   "showFrontmatter": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "files/"
+  ]
 }
