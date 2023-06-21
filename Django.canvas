@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"file","file":"Python/Django/manage.py.md","id":"8ff43e68cc910f35","x":-1680,"y":250,"width":1400,"height":450,"color":"4"},
+		{"type":"file","file":"Python/Django/manage.py.md","id":"8ff43e68cc910f35","x":-1680,"y":250,"width":1400,"height":790,"color":"4"},
 		{"type":"file","file":"Python/Django/djnago-admin.md","id":"ba09f82669585218","x":-3280,"y":240,"width":1400,"height":800,"color":"4"},
 		{"type":"file","file":"Python/Django/Типи полів моделей.md","id":"795e6eb6407e6447","x":-100,"y":1520,"width":1420,"height":880,"color":"6"},
 		{"type":"file","file":"Python/Django/Meta.md","id":"0c2a5677670301b5","x":1610,"y":1520,"width":1380,"height":880,"color":"6"},
@@ -9,7 +9,9 @@
 		{"type":"file","file":"Python/Django/Django.md","id":"d3f07de534df548c","x":-740,"y":-880,"width":640,"height":280},
 		{"type":"file","file":"Python/Django/Model validation.md","id":"fb3241f2e11c488e","x":3200,"y":1520,"width":960,"height":440,"color":"6"},
 		{"type":"file","file":"Python/Django/Django templates.md","id":"ea8c4b7e15034454","x":1420,"y":266,"width":880,"height":417,"color":"5"},
-		{"type":"file","file":"Python/Django/Models.md","id":"3234c0f35b13b074","x":250,"y":353,"width":720,"height":243,"color":"6"}
+		{"type":"file","file":"Python/Django/Models.md","id":"3234c0f35b13b074","x":250,"y":353,"width":720,"height":243,"color":"6"},
+		{"type":"file","file":"Python/Django/Lookups.md","id":"eef4cfa87a540929","x":-1880,"y":2800,"width":1400,"height":920,"color":"6"},
+		{"id":"a1eb81a7cd77ee49","x":-3600,"y":2800,"width":1380,"height":920,"color":"6","type":"file","file":"Python/Django/F-вирази.md"}
 	],
 	"edges":[
 		{"id":"dc552506c8f9f851","fromNode":"d3f07de534df548c","fromSide":"bottom","toNode":"ba09f82669585218","toSide":"top"},
@@ -20,6 +22,8 @@
 		{"id":"3494e8edf4723a23","fromNode":"795e6eb6407e6447","fromSide":"bottom","toNode":"fa1ab3e84f6783af","toSide":"top"},
 		{"id":"3e9ae5f51e9f513b","fromNode":"3234c0f35b13b074","fromSide":"bottom","toNode":"0c2a5677670301b5","toSide":"top"},
 		{"id":"1ed1fd05e7f841bf","fromNode":"3234c0f35b13b074","fromSide":"bottom","toNode":"f3fdc3ffe1a9d7fb","toSide":"top"},
-		{"id":"7bc137cee002df19","fromNode":"3234c0f35b13b074","fromSide":"bottom","toNode":"fb3241f2e11c488e","toSide":"top"}
+		{"id":"7bc137cee002df19","fromNode":"3234c0f35b13b074","fromSide":"bottom","toNode":"fb3241f2e11c488e","toSide":"top"},
+		{"id":"66238eb3762d5307","fromNode":"f3fdc3ffe1a9d7fb","fromSide":"bottom","toNode":"eef4cfa87a540929","toSide":"top"},
+		{"id":"aa3dfd1db382b30a","fromNode":"f3fdc3ffe1a9d7fb","fromSide":"bottom","toNode":"a1eb81a7cd77ee49","toSide":"top"}
 	]
 }

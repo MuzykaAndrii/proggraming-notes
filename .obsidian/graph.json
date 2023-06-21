@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:Внутрішня будова",
+      "query": "path:\"внутрішня будова\"",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -60,13 +60,13 @@
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.5516632016632,
-  "lineSizeMultiplier": 1.73503118503118,
+  "nodeSizeMultiplier": 1.79615384615385,
+  "lineSizeMultiplier": 1.5516632016632,
   "collapse-forces": true,
-  "centerStrength": 0.292099792099792,
-  "repelStrength": 11.3305613305613,
+  "centerStrength": 0.208939708939709,
+  "repelStrength": 11.6632016632017,
   "linkStrength": 0.745322245322245,
-  "linkDistance": 56,
-  "scale": 0.3064788394465001,
+  "linkDistance": 191,
+  "scale": 0.20089637463814503,
   "close": false
 }

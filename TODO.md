@@ -17,12 +17,15 @@ kanban-plugin: basic
 
 ## OOP
 
-- [ ] Encapsulation
-- [ ] Polymorphism
-- [ ] Inheritance
-- [ ] method resolution order
-- [ ] super()
-- [ ] descryptors
+- [x] Encapsulation
+- [x] Polymorphism
+- [x] Inheritance
+- [x] method resolution order
+- [x] super()
+- [x] descryptors
+- [x] properties
+- [ ] `__new__`
+- [x] `__slots__`
 
 
 ## Development metodologies
