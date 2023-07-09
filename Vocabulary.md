@@ -27,4 +27,8 @@ acknowledge - визнати
 throughout - впродовж
 further - далі
 Apart - окрім
-
+realm - сфера
+tend - прагнути
+violate - порушувати
+sufficient - достатній
+suite - набір
