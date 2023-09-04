@@ -1,3 +1,12 @@
+## Ліниві querysets
+```python
+q = Entry.objects.filter(headline__startswith="What")
+q = q.filter(pub_date__lte=datetime.date.today())
+q = q.exclude(body_text__icontains="food")
+print(q)
+```
+В цьому прикладі виконується тільки **один** запит до БД, у момент виконання коду `print(q)`замість тоьох разів.
+
 ## Створення об'єкту
 
 ```python
