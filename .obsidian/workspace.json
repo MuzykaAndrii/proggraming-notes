@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f861c3c556c23ede",
+        "id": "8e16e901e5a6cbca",
         "type": "tabs",
         "children": [
           {
-            "id": "158edfdbbec6edf3",
+            "id": "b9880bba2027ae3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Django/ORM.md",
+                "file": "clisto car service.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59b97c74ad2c67ca",
+            "id": "50fc4facddabfabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Django/ORM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "060025f7cc010b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Агрегації та аннотації.md",
+                "file": "Python/FastAPI/FastAPI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Агрегації та аннотації.md",
+                "file": "Python/FastAPI/FastAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Агрегації та аннотації.md",
+                "file": "Python/FastAPI/FastAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Агрегації та аннотації.md"
+                "file": "Python/FastAPI/FastAPI.md"
               }
             }
           }
@@ -168,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Агрегації та аннотації.md",
+                "file": "Python/FastAPI/FastAPI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,37 +203,38 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "060025f7cc010b99",
+  "active": "50fc4facddabfabd",
   "lastOpenFiles": [
+    "clisto car service.md",
+    "Python/FastAPI/FastAPI.md",
+    "Python/FastAPI",
+    "Python/Типи даних/Sequence (послідовність).md",
+    "Python.canvas",
     "Python/Django/ORM.md",
-    "Агрегації та аннотації.md",
     "Django.canvas",
+    "Чистий код.md",
+    "TODO.md",
+    "Git.md",
+    "ТЗ до проекту 'Anki app extended'.md",
+    "Прочитати, подивитись, розібратись.md",
+    "Big-O.md",
+    "Агрегації та аннотації.md",
     "Python/Django/F-вирази.md",
     "Python/Django/Lookups.md",
     "Python/Django/manage.py.md",
-    "TODO.md",
-    "Python.canvas",
     "Python/ООП/Числові dunder-методи.md",
     "Python/ООП/Dunder-методи порівняння.md",
     "Python/ООП/Dunders.md",
     "Python/ООП/__slots__ та __dict__.md",
     "Python/ООП/Дескриптори.md",
     "Python/внутрішня будова/Weakref (слабкі посилання).md",
-    "Git.md",
     "Корисні ресурси.md",
     "Парадигми програмування.canvas",
-    "Прочитати, подивитись, розібратись.md",
     "Python/ООП/Наслідування.md",
     "Python/внутрішня будова/Garbage collector.md",
     "Python/внутрішня будова/Memory management.md",
     "Python/Типи даних/Integers.md",
     "Python/ООП/__str__ та __repr__.md",
-    "Python/Оффтоп.md",
-    "Python/Правила найменування.md",
-    "Python/ООП/Properties.md",
-    "Python/ООП/Атрибути об'єкта, атрибути класу.md",
-    "Python/Типи даних/Sequence (послідовність).md",
-    "Python/ООП/Інкапсуляція.md",
     "Python-0.canvas",
     "files/Beyond the Basic Stuff with Python.pdf",
     "Без назви.canvas",
@@ -261,7 +250,6 @@
     "Докер",
     "Python/Типи даних/dict словники",
     "Python/Типи даних/tuples",
-    "Python/Типи даних",
     "Python/Без назви.canvas",
     "Pasted image 20230509152541.png",
     "Pasted image 20230509150957.png"
