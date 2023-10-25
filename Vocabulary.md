@@ -58,3 +58,6 @@ otherwise - інакше, в іншому разі
 
 evident - очевидно (obvious)
 evidence - доказ
+
+payload - корисне навантаження
+caveat - застереження

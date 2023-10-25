@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"7fa774e70d4e7cbb","x":-491,"y":-264,"width":171,"height":50,"color":"3","type":"text","text":"# Project"},
+		{"id":"51f24fface93dc34","x":-340,"y":20,"width":250,"height":90,"type":"text","text":"### config\nFile with conf variables"},
+		{"id":"5ef8891faab0bcfc","x":100,"y":-100,"width":250,"height":60,"type":"text","text":"## app"},
+		{"id":"ea9768536abb1cef","x":280,"y":50,"width":250,"height":100,"type":"text","text":"## models\nmodels of app"},
+		{"id":"ae06f3617a8d82a1","x":-340,"y":150,"width":250,"height":130,"type":"text","text":"## Main\nApp and additional libs initialization, main route\n"},
+		{"id":"f866999cd05367ba","x":-340,"y":-130,"width":250,"height":120,"type":"text","text":"## apps\nFolder with sepatare apps"},
+		{"id":"4fe71b4d2cde648f","x":-340,"y":310,"width":250,"height":170,"type":"text","text":"## Database\nFolder with db initialization and repo pattern"},
+		{"id":"2535a8348581641d","x":-150,"y":716,"width":250,"height":164,"type":"text","text":"## repository\nPredefined abstract class, to implement basic db usage"},
+		{"id":"f17a9388e717c002","x":-150,"y":570,"width":250,"height":116,"type":"text","text":"## database\nInitialization of orm and db"},
+		{"id":"cec2dac5bd1ff76c","x":280,"y":180,"width":250,"height":160,"type":"text","text":"## data access layer\nLayer to perform model operationos"},
+		{"id":"e9a3f0609f9f9f85","x":280,"y":380,"width":250,"height":140,"type":"text","text":"## shemas\nPydantic shemas to serialize model objects"},
+		{"id":"266c07c9a703d694","x":280,"y":570,"width":250,"height":90,"type":"text","text":"## services\nBuisness logic"},
+		{"id":"a4f89b969c59420c","x":280,"y":704,"width":250,"height":94,"type":"text","text":"## routes\nEndpoints"}
+	],
+	"edges":[
+		{"id":"4f5c6f96ad9e0e00","fromNode":"7fa774e70d4e7cbb","fromSide":"bottom","toNode":"51f24fface93dc34","toSide":"left"},
+		{"id":"ca1e2ed595cf55dd","fromNode":"7fa774e70d4e7cbb","fromSide":"bottom","toNode":"4fe71b4d2cde648f","toSide":"left"},
+		{"id":"75422654890b3bcb","fromNode":"7fa774e70d4e7cbb","fromSide":"bottom","toNode":"ae06f3617a8d82a1","toSide":"left"},
+		{"id":"30c2486fc43c62d0","fromNode":"7fa774e70d4e7cbb","fromSide":"bottom","toNode":"f866999cd05367ba","toSide":"left"},
+		{"id":"bdc2b3a45dce4ee1","fromNode":"f866999cd05367ba","fromSide":"right","toNode":"5ef8891faab0bcfc","toSide":"left"},
+		{"id":"5ace0ef59146465a","fromNode":"5ef8891faab0bcfc","fromSide":"bottom","toNode":"ea9768536abb1cef","toSide":"left"},
+		{"id":"8747d8c52d024d14","fromNode":"5ef8891faab0bcfc","fromSide":"bottom","toNode":"cec2dac5bd1ff76c","toSide":"left"},
+		{"id":"2cc18c8b5d2cc0df","fromNode":"5ef8891faab0bcfc","fromSide":"bottom","toNode":"e9a3f0609f9f9f85","toSide":"left"},
+		{"id":"4c6116473f965988","fromNode":"5ef8891faab0bcfc","fromSide":"bottom","toNode":"266c07c9a703d694","toSide":"left"},
+		{"id":"6af15c4a42a821be","fromNode":"4fe71b4d2cde648f","fromSide":"bottom","toNode":"f17a9388e717c002","toSide":"left"},
+		{"id":"87dd1f36e0f55c19","fromNode":"4fe71b4d2cde648f","fromSide":"bottom","toNode":"2535a8348581641d","toSide":"left"},
+		{"id":"bf530ad9a22363d1","fromNode":"5ef8891faab0bcfc","fromSide":"bottom","toNode":"a4f89b969c59420c","toSide":"left"}
+	]
+}
