@@ -9,5 +9,7 @@
   "showLineNumber": false,
   "userIgnoreFilters": [
     "files/"
-  ]
+  ],
+  "defaultViewMode": "source",
+  "spellcheck": false
 }
