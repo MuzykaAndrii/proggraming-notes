@@ -78,4 +78,19 @@ p.delete()
 
 `<Model>.objects.filter(...).update(<update_fileds>)` - оновлює поля моделей за певну кількість SQL-запитів
 
+### Q-запити
+Q-запит - дозволяє створювати комплексні запити з логічними операторами:  **і, або, не**
+Ці запит можуть на льоту генеруватись для подальшого використання:
+```python
+user_query = Q(is_active=True)
+value = params['value']
+
+if 'name' in params:
+	user_query.add(Q(name__icontains=value) | Q(surname__icontains=value), Q.OR)
+if 'email' in params:
+	user_query.add(Q(email__icontains=value), Q.OR)
+
+User.objects.filter(user_query)
+```
+
 [[Models]]

@@ -1,9 +1,6 @@
 {
   "attachmentFolderPath": "files",
-  "spellcheckLanguages": [
-    "uk",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "showFrontmatter": false,
   "showLineNumber": false,
