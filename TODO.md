@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## packages
 
-- [ ] poetry
+- [x] poetry
 
 
 ## Testing
