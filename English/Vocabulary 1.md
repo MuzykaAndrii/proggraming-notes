@@ -1,9 +1,27 @@
-aforementioned - вищезгаданий
-acknowledge - визнати
-as well - також
-assume - припустити
+aside - вбік
+offer - пропозиція
+suitable - підходить
+stray - бродячий
+familiar - знайомий
+orphan - сирота
+embrace, hug - обійняти
+captivating - захоплюючий, привабливий
+concise - лаконічний
+tension - напруга
+subtle - витончений, тонкий
+sophisticated - витончений
+nap - дрімати
+obstacle - перешкода
+worse - гірше
+worst - найгірше
+bite - укус
+due - у звязку з, через
+remain - залишатися
+fancy - вигадливий
+elaborate - складний, детально пояснити
+weird, strange - дивний
 
-to cause - щоб викликати, спричинити
+
 
 bunch - купа
 bundle - вязка
@@ -13,10 +31,7 @@ several - кілька
 couple - пару
 plenty - безліч
 
-straightforward - прямолінійний
-tempt - спокушати
-tend - прагнути
-violate - порушувати
+
 
 cheer - аплодисменти
 cher up - підбадьоритись
@@ -25,7 +40,3 @@ either - або (either ...., or ...)
 neither - ні один, жоден
 both - обидва
 
-evident - очевидно (obvious)
-evidence - доказ
-
-payload - корисне навантаження

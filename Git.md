@@ -10,3 +10,9 @@
 
 `git revert -n HEAD~<num_of_commits>..HEAD` - повернутись на деяке число комітів назад, відмінені коміти залишаться в історії git.
 `git checkout <commit_hash> -- <filename>` - повернути тільки один конкретний файл (`filename`) до стану певного коміту (`commit_hash`).
+
+### Перезагрузка gitignore
+```zsh
+git rm -rf --cached .
+git add .
+```
