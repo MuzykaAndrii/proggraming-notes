@@ -55,18 +55,25 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:\"Р.Мартін Чистий код\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.79615384615385,
-  "lineSizeMultiplier": 1.5516632016632,
+  "nodeSizeMultiplier": 2.16798502604167,
+  "lineSizeMultiplier": 1.389599609375,
   "collapse-forces": true,
   "centerStrength": 0.208939708939709,
   "repelStrength": 11.6632016632017,
   "linkStrength": 0.745322245322245,
   "linkDistance": 191,
-  "scale": 0.7110091549500398,
+  "scale": 0.5276246665012646,
   "close": false
 }

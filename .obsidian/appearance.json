@@ -2,8 +2,8 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "",
-  "nativeMenus": false,
-  "translucency": false,
+  "nativeMenus": true,
+  "translucency": true,
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "custom"

@@ -8,5 +8,7 @@
     "files/"
   ],
   "defaultViewMode": "source",
-  "spellcheck": false
+  "spellcheck": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }
