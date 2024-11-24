@@ -90,6 +90,15 @@ def setup_db():
 	Base.metadate.drop_all()
 ```
 
+
+## Команди
+
+```bash
+pytest -x           # stop after first failure
+pytest --maxfail=2  # stop after two failures
+pytest -x --pdb     # drop to PDB on first failure, then end test session
+```
+
 ### Підміна змінних оточення для тестування
 [Бібліотека pytest-dotenv](https://pypi.org/project/pytest-dotenv/)
 [Гайд](https://www.youtube.com/watch?v=zc138SwDsG0&list=PLeLN0qH0-mCVdHgdjlnKTl4jKuJgCK-4b&index=9)

@@ -13,7 +13,7 @@ services:
 	app:
 		build: ./app
 		depends_on:
-			- app
+			- mongo
 	mongo:
 		image: mongo:latest
 ```

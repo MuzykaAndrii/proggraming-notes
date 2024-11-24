@@ -4,7 +4,7 @@ CREATE DATABASE <dbname>;
 CREATE USER <user> WITH ENCRYPTED PASSWORD '<pass>';
 ```
 
-Видача привілегій:
+Видача привілегій (потрібно зайти через юзера postgres на ту бд, для якої хочемо дати привілеї):
 ```sql
 GRANT ALL PRIVILEGES ON SCHEMA public TO <user>
 
